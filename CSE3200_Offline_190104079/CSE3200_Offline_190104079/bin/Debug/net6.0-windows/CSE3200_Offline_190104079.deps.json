@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSE3200_Offline_190104079/1.0.0": {
+        "runtime": {
+          "CSE3200_Offline_190104079.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSE3200_Offline_190104079/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
